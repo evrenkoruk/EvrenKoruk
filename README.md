@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**evrenkoruk/evrenkoruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello , I'm Nursel .
 
-Here are some ideas to get you started:
+I'm a Backend Developer . Actually , I was a Food Enginering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My curiosity to learn how a system is set up, developed and managed led me to the field of technology.
+
+I started  in 2019 this journey . I started with PHP , HTML ,CSS .
+Long time ago , I started with C# , .NET . 
+Now , I am developing project with C# , .NET .
+
+I don't know where my passion for learning will take me in the days to come. 
+
+Right now I am focused on enjoying this journey.
+
+
