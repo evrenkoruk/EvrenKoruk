@@ -1,7 +1,7 @@
 
-Hello , I'm Nursel .
+Hello , I'm Evren .
 
-I'm a Backend Developer . Actually , I was a Food Enginering.
+I'm a Frontend Developer . Actually , I was a Software Enginering.
 
 My curiosity to learn how a system is set up, developed and managed led me to the field of technology.
 
